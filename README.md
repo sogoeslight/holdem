@@ -37,3 +37,5 @@ Input examples - `input.txt`
         - https://leanpub.com/pfp-scala - very recommended
         - https://underscore.io/books/scala-with-cats/ - very recommended
         - https://leanpub.com/fpmortals-cats
+- Non-Scala:
+    - [Learn Git Branching](https://learngitbranching.js.org/)
