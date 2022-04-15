@@ -14,7 +14,7 @@ Input examples - `input.txt`
 - `cat input.txt | java -jar build/libs/holdem.jar`
 
 ### Contacts:
-- ilyalpt@gmail.com
+- sogoeslight@gmail.com
 
 ---
 
